@@ -1,0 +1,127 @@
+  authorId                     name                                                                                      affiliations                              email
+ 145298798               S. Fuentes                                                                          University of Washington               S._Fuentes@gmail.com
+  13288046   Claudia Gonzalez Viejo                                                                          University of Washington   Claudia_Gonzalez_Viejo@gmail.com
+   1709901              Ee-Peng Lim                                                               University of California, San Diego              Ee-Peng_Lim@gmail.com
+ 143701176          Knut Hinkelmann                             FHNW University of Applied Sciences and Arts Northwestern Switzerland          Knut_Hinkelmann@gmail.com
+2109247625             Sajjad Ahmed                                                                                   Yale University             Sajjad_Ahmed@gmail.com
+2292166946            Kishore Kumar                                                             Massachusetts Institute of Technology            Kishore_Kumar@gmail.com
+ 145508283         Daniil Kononenko                                                                               Columbia University         Daniil_Kononenko@gmail.com
+   5371772                   L. May                                                                        University of Pennsylvania                   L._May@gmail.com
+  49170958                   Y. Kim                                                                          University of Washington                   Y._Kim@gmail.com
+   2242129             Youngdoo Son                                                                               Stanford University             Youngdoo_Son@gmail.com
+   2821001              Wonjoon Kim                                                                                   Yale University              Wonjoon_Kim@gmail.com
+   2328680                M. Masugi                                                                             University of Chicago                M._Masugi@gmail.com
+   8625509             N. Schuelper                                                                              University of Oxford             N._Schuelper@gmail.com
+  11735268               M. Dübbers                                                                California Institute of Technology               M._Dübbers@gmail.com
+   5019281               T. Raupach                                                                               Stanford University               T._Raupach@gmail.com
+   2701404                A. Kucera                                                                        University of Pennsylvania                A._Kucera@gmail.com
+1390043728       Noah Wardrip-Fruin                                                                University of California, Berkeley       Noah_Wardrip-Fruin@gmail.com
+   2185666          Dinah Rosenberg                                                             Massachusetts Institute of Technology          Dinah_Rosenberg@gmail.com
+ 145748799     David R. M. Thompson                                                                                        ['Google']     David_R._M._Thompson@gmail.com
+ 144879753           Samantha Leung                                                                                   Yale University           Samantha_Leung@gmail.com
+ 144154444            Marcus Hutter                                                                        University of Pennsylvania            Marcus_Hutter@gmail.com
+ 103296599                 M. Preti                                                             University of California, Los Angeles                 M._Preti@gmail.com
+ 145231705       Charles A. Kamhoua                                                                                   Yale University       Charles_A._Kamhoua@gmail.com
+ 145190435            A. Bensoussan                                                                                Harvard University            A._Bensoussan@gmail.com
+   2324546         Levi H. S. Lelis                                                             Massachusetts Institute of Technology         Levi_H._S._Lelis@gmail.com
+1742415696             E. Whitehead                                                                University of California, Berkeley             E._Whitehead@gmail.com
+   1717955          James C. Lester                                                                                Harvard University          James_C._Lester@gmail.com
+ 145481292         Christian Reuter                                                                        University of Pennsylvania         Christian_Reuter@gmail.com
+   2044989        Jefry Tedjokusumo                                                               University of California, San Diego        Jefry_Tedjokusumo@gmail.com
+   1809333                  S. Zhou                                                                              University of Oxford                  S._Zhou@gmail.com
+   1715407               A. Abrardo                                                                            University of Michigan               A._Abrardo@gmail.com
+ 144625576                 M. Barni                                                                             University of Chicago                 M._Barni@gmail.com
+1402943721           L. Lewin-Eytan                                                                                   Yale University           L._Lewin-Eytan@gmail.com
+   1705969                  A. Orda                                                                               Stanford University                  A._Orda@gmail.com
+2069946935                S. M. Goh                                                             University of California, Los Angeles                S._M._Goh@gmail.com
+   2937925                  H. Iida                                                                              University of Oxford                  H._Iida@gmail.com
+ 150079420             Daniel Motus                                                                        University of Pennsylvania             Daniel_Motus@gmail.com
+   1931503            Geber Ramalho                                                                            University of Michigan            Geber_Ramalho@gmail.com
+2023945041            Matthew Brown                                                                               Stanford University            Matthew_Brown@gmail.com
+ 123064042              L.S. Haynes                                                                              Princeton University              L.S._Haynes@gmail.com
+  32041960             Lori S. Cook                                                                             University of Chicago             Lori_S._Cook@gmail.com
+1396307944            B. King-Casas                                                                             University of Chicago            B._King-Casas@gmail.com
+  16777650             Igor Kotenko                     ['St. Petersburg Federal Research Center of the Russian Academy of Sciences']             Igor_Kotenko@gmail.com
+   2701127                S. Schewe                                                             University of California, Los Angeles                S._Schewe@gmail.com
+2112851762                  Jin Shi                                                             Massachusetts Institute of Technology                  Jin_Shi@gmail.com
+  38295334                  Q. Song                                                                           University of Cambridge                  Q._Song@gmail.com
+   2797013              Jesper Juul                                                                              University of Oxford              Jesper_Juul@gmail.com
+   1888102              Boreum Choi                                                                           University of Cambridge              Boreum_Choi@gmail.com
+ 143823506               H. Donkers                                                             Massachusetts Institute of Technology               H._Donkers@gmail.com
+  98232539               J. Benthem                                                                               Columbia University               J._Benthem@gmail.com
+   2355912         C. V. Wangenheim                                                                             University of Chicago         C._V._Wangenheim@gmail.com
+  70048683             S. D. Permai                                                                               Columbia University             S._D._Permai@gmail.com
+  50053016         Sarah I. Endress                                                                             University of Chicago         Sarah_I._Endress@gmail.com
+   2534790          Stefaan Ternier                                                                           University of Cambridge          Stefaan_Ternier@gmail.com
+ 145910180              A. Morrison                                                                California Institute of Technology              A._Morrison@gmail.com
+2075376111                   Yu Bao                                                                            University of Michigan                   Yu_Bao@gmail.com
+  34905047          Rikke Magnussen                                                             University of California, Los Angeles          Rikke_Magnussen@gmail.com
+  11330123            J. Argasiński                                                                               Columbia University            J._Argasiński@gmail.com
+   1732285               Jason Begy                                                               University of California, San Diego               Jason_Begy@gmail.com
+  52367308          Ravi Purushotma                                                                        University of Pennsylvania          Ravi_Purushotma@gmail.com
+   3122645         Boualem Djehiche                                                                              University of Oxford         Boualem_Djehiche@gmail.com
+   2871176               Takashi Ui                                                                             University of Chicago               Takashi_Ui@gmail.com
+  27011207               Tom Gedeon ['ANU, Murdoch University, UNSW, Brunel University, Flinders University, UWA, Curtin University']               Tom_Gedeon@gmail.com
+   1686360           Wang-Chien Lee                                                                             University of Chicago           Wang-Chien_Lee@gmail.com
+  35510243        Martin W. P. Reid                                                                                Harvard University        Martin_W._P._Reid@gmail.com
+   1683556            G. Wiederhold                                                                California Institute of Technology            G._Wiederhold@gmail.com
+   1759803              S. Zadrożny                                                                               Columbia University              S._Zadrożny@gmail.com
+ 144971290                K. Yamane                                                                              Princeton University                K._Yamane@gmail.com
+   1703130                  T. Reps                                                                              Princeton University                  T._Reps@gmail.com
+2109434985            Dong-chan Lee                                                                                   Yale University            Dong-chan_Lee@gmail.com
+  83360169               Yeonguk Yu                                                                                   Yale University               Yeonguk_Yu@gmail.com
+   4383002                 M. Tutaj                                                                              Princeton University                 M._Tutaj@gmail.com
+ 145536002              Rajni Nigam                                                             Massachusetts Institute of Technology              Rajni_Nigam@gmail.com
+   7144057               J. D. Pons                                                                                   Yale University               J._D._Pons@gmail.com
+  47489005                M. Váradi                                                               University of California, San Diego                M._Váradi@gmail.com
+   1708081              Y. A. Ameur                                                                               Stanford University              Y._A._Ameur@gmail.com
+   2235792             E. Ozkarahan                                                                University of California, Berkeley             E._Ozkarahan@gmail.com
+   1798269                J. Spilka                                                               University of California, San Diego                J._Spilka@gmail.com
+   1743835          J. F. A. Montes                                                                               Columbia University          J._F._A._Montes@gmail.com
+ 144508067               M. Zappalà                                                                                Harvard University               M._Zappalà@gmail.com
+   2584469         Cristina Gurnari                                                                              University of Oxford         Cristina_Gurnari@gmail.com
+   2105361                E. Clercq                                                                               Stanford University                E._Clercq@gmail.com
+   2977596              B. V. Maele                                                                        University of Pennsylvania              B._V._Maele@gmail.com
+  90643212                J. Briggs                                                                        University of Pennsylvania                J._Briggs@gmail.com
+   2283085                A. Meliou                                                               University of California, San Diego                A._Meliou@gmail.com
+ 144179343                Ron Edgar                                                                            University of Michigan                Ron_Edgar@gmail.com
+  34806045         Thomas L. Madden                                                               University of California, San Diego         Thomas_L._Madden@gmail.com
+ 144376619           Edwin Sequeira                                                                               Columbia University           Edwin_Sequeira@gmail.com
+ 145388224                L. Wagner                                                                University of California, Berkeley                L._Wagner@gmail.com
+ 145009388          A. Papadopoulos                                                                        University of Pennsylvania          A._Papadopoulos@gmail.com
+ 143966331            Stefan Conrad                                                                      ['University of Düsseldorf']            Stefan_Conrad@gmail.com
+   2040141              C. Bereiter                                                               University of California, San Diego              C._Bereiter@gmail.com
+  40116646              Clare Brett                                                                           University of Cambridge              Clare_Brett@gmail.com
+   2293098           Lorenz C. Blum                                                                              Princeton University           Lorenz_C._Blum@gmail.com
+  30956207                 M. Darby                                                                            University of Michigan                 M._Darby@gmail.com
+   1718571              F. Henskens                                                                               Columbia University              F._Henskens@gmail.com
+   1702008                C. Borror                                                                             University of Chicago                C._Borror@gmail.com
+  48288926                 S. Crook                                                                          University of Washington                 S._Crook@gmail.com
+   2919717               A. Belussi                                                                              University of Oxford               A._Belussi@gmail.com
+   1733783                 C. Chung                                                             University of California, Los Angeles                 C._Chung@gmail.com
+2093463872           Steve Mortimer                                                                University of California, Berkeley           Steve_Mortimer@gmail.com
+   9763761                  H. Song                                                                               Stanford University                  H._Song@gmail.com
+ 144743909             D. G. George                                                                              University of Oxford             D._G._George@gmail.com
+  33726843              F. Pfeiffer                                                                               Columbia University              F._Pfeiffer@gmail.com
+  32446495          M. D. Whiteside                                                                            University of Michigan          M._D._Whiteside@gmail.com
+   1772445              F. Brinkman                                                               University of California, San Diego              F._Brinkman@gmail.com
+ 145999401              Amgad Agoub                                                                                   Yale University              Amgad_Agoub@gmail.com
+   2113076          A. M. Barbancho                                                                California Institute of Technology          A._M._Barbancho@gmail.com
+   3139251             I. Barbancho                                                                                Harvard University             I._Barbancho@gmail.com
+   2901129                L. Tardón                                                                                   Yale University                L._Tardón@gmail.com
+   1766832               U. Engelke                                                                University of California, Berkeley               U._Engelke@gmail.com
+  48546175             H. Zepernick                                                                            University of Michigan             H._Zepernick@gmail.com
+   1684197             Y. Ioannidis                                                                              University of Oxford             Y._Ioannidis@gmail.com
+ 144718788                  L. Deng                                                                California Institute of Technology                  L._Deng@gmail.com
+   3185110          Robert Pruvenok                                                                           University of Cambridge          Robert_Pruvenok@gmail.com
+2157241745               Yanyi Chen                                                                               Stanford University               Yanyi_Chen@gmail.com
+  48190770                 S. Momen                                                             Massachusetts Institute of Technology                 S._Momen@gmail.com
+ 145890221                 A. Alwan                                                               University of California, San Diego                 A._Alwan@gmail.com
+ 143842962                 H. Voigt                                                             Massachusetts Institute of Technology                 H._Voigt@gmail.com
+   3193518          Andreas Behrend                                                                          University of Washington          Andreas_Behrend@gmail.com
+  31472189        Polyane Wercelens                                                               University of California, San Diego        Polyane_Wercelens@gmail.com
+1399291986 Kiyoko F. Aoki-Kinoshita                                                             Massachusetts Institute of Technology Kiyoko_F._Aoki-Kinoshita@gmail.com
+ 146682888                  F. Amer                                                                             University of Chicago                  F._Amer@gmail.com
+  81753199          Gaurav Deshmukh                                                                            University of Michigan          Gaurav_Deshmukh@gmail.com
+   2947656             P. L. Lehman                                                                             University of Chicago             P._L._Lehman@gmail.com
+   1767172                  A. Ilic                                                                California Institute of Technology                  A._Ilic@gmail.com

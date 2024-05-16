@@ -89,7 +89,7 @@ authorId,name,affiliations,email
 1390043728,Noah Wardrip-Fruin,"University of California, Berkeley",Noah_Wardrip-Fruin@gmail.com
 2185666,Dinah Rosenberg,Massachusetts Institute of Technology,Dinah_Rosenberg@gmail.com
 2440316,N. Vieille,University of Pennsylvania,N._Vieille@gmail.com
-145748799,David R. M. Thompson,['Google'],David_R._M._Thompson@gmail.com
+145748799,David R. M. Thompson,'Google',David_R._M._Thompson@gmail.com
 144879753,Samantha Leung,Yale University,Samantha_Leung@gmail.com
 1388404060,Kevin Leyton-Brown,University of Pennsylvania,Kevin_Leyton-Brown@gmail.com
 38548340,S. Fiedler,California Institute of Technology,S._Fiedler@gmail.com
@@ -100,7 +100,7 @@ authorId,name,affiliations,email
 22708544,Tobias Wängberg,"University of California, Berkeley",Tobias_Wängberg@gmail.com
 22708729,Mikael Böörs,Yale University,Mikael_Böörs@gmail.com
 22574075,Elliot Catt,Columbia University,Elliot_Catt@gmail.com
-1868196,Tom Everitt,['DeepMind'],Tom_Everitt@gmail.com
+1868196,Tom Everitt,'DeepMind',Tom_Everitt@gmail.com
 144154444,Marcus Hutter,University of Pennsylvania,Marcus_Hutter@gmail.com
 103296599,M. Preti,"University of California, Los Angeles",M._Preti@gmail.com
 70359360,S. Pill,"University of California, Berkeley",S._Pill@gmail.com
@@ -137,13 +137,13 @@ authorId,name,affiliations,email
 1730590,A. Barto,University of Washington,A._Barto@gmail.com
 1715407,A. Abrardo,University of Michigan,A._Abrardo@gmail.com
 144625576,M. Barni,University of Chicago,M._Barni@gmail.com
-3192444,Kassem Kallas,['INRIA'],Kassem_Kallas@gmail.com
+3192444,Kassem Kallas,'INRIA',Kassem_Kallas@gmail.com
 2488892,B. Tondi,University of Pennsylvania,B._Tondi@gmail.com
 2112625845,Paul Cheng,University of Oxford,Paul_Cheng@gmail.com
 116150522,Ioanna Vasileiadou,Princeton University,Ioanna_Vasileiadou@gmail.com
 118461124,Zafiri Makrina,California Institute of Technology,Zafiri_Makrina@gmail.com
 1694028,Riky Subrata,University of Pennsylvania,Riky_Subrata@gmail.com
-9392149,Albert Y. Zomaya,['Sydney University'],Albert_Y._Zomaya@gmail.com
+9392149,Albert Y. Zomaya,'Sydney University',Albert_Y._Zomaya@gmail.com
 1705486,B. Landfeldt,University of Washington,B._Landfeldt@gmail.com
 1398510220,L. Mo-Suwan,University of Pennsylvania,L._Mo-Suwan@gmail.com
 6630757,Jiraluck Nontarak,University of Oxford,Jiraluck_Nontarak@gmail.com
@@ -185,24 +185,24 @@ authorId,name,affiliations,email
 1931503,Geber Ramalho,University of Michigan,Geber_Ramalho@gmail.com
 2023945041,Matthew Brown,Stanford University,Matthew_Brown@gmail.com
 3305291,Sandhya Saisubramanian,Columbia University,Sandhya_Saisubramanian@gmail.com
-1718824,Pradeep Varakantham,['Singapore Management University'],Pradeep_Varakantham@gmail.com
+1718824,Pradeep Varakantham,'Singapore Management University',Pradeep_Varakantham@gmail.com
 143736701,Milind Tambe,"University of California, San Diego",Milind_Tambe@gmail.com
 2426181,Mo Wei,University of Oxford,Mo_Wei@gmail.com
 2116388691,Genshe Chen,Harvard University,Genshe_Chen@gmail.com
 143882917,J. B. Cruz,University of Oxford,J._B._Cruz@gmail.com
 123064042,L.S. Haynes,Princeton University,L.S._Haynes@gmail.com
 34820048,K. Pham,"University of California, Berkeley",K._Pham@gmail.com
-1752475,Erik Blasch,['AFRL'],Erik_Blasch@gmail.com
+1752475,Erik Blasch,'AFRL',Erik_Blasch@gmail.com
 143628853,Elizabeth LaPensée,University of Oxford,Elizabeth_LaPensée@gmail.com
 145364912,G. Reinhardt,"University of California, Berkeley",G._Reinhardt@gmail.com
 32041960,Lori S. Cook,University of Chicago,Lori_S._Cook@gmail.com
 1396307944,B. King-Casas,University of Chicago,B._King-Casas@gmail.com
 2708759,Pearl H. Chiu,"University of California, Los Angeles",Pearl_H._Chiu@gmail.com
-16777650,Igor Kotenko,['St. Petersburg Federal Research Center of the Russian Academy of Sciences'],Igor_Kotenko@gmail.com
+16777650,Igor Kotenko,'St. Petersburg Federal Research Center of the Russian Academy of Sciences',Igor_Kotenko@gmail.com
 2262881,E. Doynikova,Stanford University,E._Doynikova@gmail.com
 144638626,A. Chechulin,Massachusetts Institute of Technology,A._Chechulin@gmail.com
 2701127,S. Schewe,"University of California, Los Angeles",S._Schewe@gmail.com
-1761581,Manny Rayner,['University of Geneva'],Manny_Rayner@gmail.com
+1761581,Manny Rayner,'University of Geneva',Manny_Rayner@gmail.com
 145141931,P. Bouillon,Columbia University,P._Bouillon@gmail.com
 39452145,Johanna Gerlach,Stanford University,Johanna_Gerlach@gmail.com
 1716323,D. Memmert,Harvard University,D._Memmert@gmail.com
@@ -289,11 +289,11 @@ authorId,name,affiliations,email
 3122645,Boualem Djehiche,University of Oxford,Boualem_Djehiche@gmail.com
 1773778,H. Tembine,Massachusetts Institute of Technology,H._Tembine@gmail.com
 2871176,Takashi Ui,University of Chicago,Takashi_Ui@gmail.com
-27011207,Tom Gedeon,"['ANU, Murdoch University, UNSW, Brunel University, Flinders University, UWA, Curtin University']",Tom_Gedeon@gmail.com
+27011207,Tom Gedeon,"'ANU, Murdoch University, UNSW, Brunel University, Flinders University, UWA, Curtin University'",Tom_Gedeon@gmail.com
 2607684,Dingyun Zhu,California Institute of Technology,Dingyun_Zhu@gmail.com
 145215033,B. Mendis,Yale University,B._Mendis@gmail.com
 1686360,Wang-Chien Lee,University of Chicago,Wang-Chien_Lee@gmail.com
-1692152,Lee,['Hong Kong University of Science and Technology'],Lee@gmail.com
+1692152,Lee,'Hong Kong University of Science and Technology',Lee@gmail.com
 1741196,S. Kiranyaz,University of Pennsylvania,S._Kiranyaz@gmail.com
 35327641,S. Harkins,Yale University,S._Harkins@gmail.com
 35510243,Martin W. P. Reid,Harvard University,Martin_W._P._Reid@gmail.com
@@ -303,7 +303,7 @@ authorId,name,affiliations,email
 145635430,R. Cowie,University of Cambridge,R._Cowie@gmail.com
 1400943991,E. Douglas-Cowie,"University of California, Los Angeles",E._Douglas-Cowie@gmail.com
 33199546,Cate Cox,Princeton University,Cate_Cox@gmail.com
-1703204,Juan Sequeda,['data.world'],Juan_Sequeda@gmail.com
+1703204,Juan Sequeda,'data.world',Juan_Sequeda@gmail.com
 2787942,Freddy Priyatna,University of Cambridge,Freddy_Priyatna@gmail.com
 1398348791,B. Villazón-Terrazas,"University of California, Los Angeles",B._Villazón-Terrazas@gmail.com
 1683556,G. Wiederhold,California Institute of Technology,G._Wiederhold@gmail.com
@@ -312,7 +312,7 @@ authorId,name,affiliations,email
 1978719,V. Vesna,University of Michigan,V._Vesna@gmail.com
 48691553,Su Zhang,Stanford University,Su_Zhang@gmail.com
 1932524,Xinming Ou,University of Pennsylvania,Xinming_Ou@gmail.com
-1736546,Doina Caragea,['Kansas State University'],Doina_Caragea@gmail.com
+1736546,Doina Caragea,'Kansas State University',Doina_Caragea@gmail.com
 1832291,W. Takano,Harvard University,W._Takano@gmail.com
 144971290,K. Yamane,Princeton University,K._Yamane@gmail.com
 2173160556,Yoshihiko Nakamura,University of Pennsylvania,Yoshihiko_Nakamura@gmail.com
@@ -383,7 +383,7 @@ authorId,name,affiliations,email
 1873312,A. Chimirri,"University of California, Berkeley",A._Chimirri@gmail.com
 2283085,A. Meliou,"University of California, San Diego",A._Meliou@gmail.com
 31938009,Sudeepa Roy,Yale University,Sudeepa_Roy@gmail.com
-144823759,Dan Suciu,['University of Washington'],Dan_Suciu@gmail.com
+144823759,Dan Suciu,'University of Washington',Dan_Suciu@gmail.com
 2304487,Y. Amghar,"University of California, Los Angeles",Y._Amghar@gmail.com
 47531065,Madjid Meziane,Yale University,Madjid_Meziane@gmail.com
 144989167,A. Flory,University of Michigan,A._Flory@gmail.com
@@ -416,7 +416,7 @@ authorId,name,affiliations,email
 21790176,W. Majewski,"University of California, Berkeley",W._Majewski@gmail.com
 1679752,Ulf T. Mattsson,University of Chicago,Ulf_T._Mattsson@gmail.com
 1751233,C. Laborda,Stanford University,C._Laborda@gmail.com
-143966331,Stefan Conrad,['University of Düsseldorf'],Stefan_Conrad@gmail.com
+143966331,Stefan Conrad,'University of Düsseldorf',Stefan_Conrad@gmail.com
 2865522,M. Scardamalia,Massachusetts Institute of Technology,M._Scardamalia@gmail.com
 2040141,C. Bereiter,"University of California, San Diego",C._Bereiter@gmail.com
 40116646,Clare Brett,University of Cambridge,Clare_Brett@gmail.com
@@ -491,7 +491,7 @@ authorId,name,affiliations,email
 40466466,K. Herrmann,Massachusetts Institute of Technology,K._Herrmann@gmail.com
 143842962,H. Voigt,Massachusetts Institute of Technology,H._Voigt@gmail.com
 3193518,Andreas Behrend,University of Washington,Andreas_Behrend@gmail.com
-7337091,Wolfgang Lehner,['Technische Universität Dresden'],Wolfgang_Lehner@gmail.com
+7337091,Wolfgang Lehner,'Technische Universität Dresden',Wolfgang_Lehner@gmail.com
 39592606,Waldeyr M. C. Silva,University of Washington,Waldeyr_M._C._Silva@gmail.com
 31472189,Polyane Wercelens,"University of California, San Diego",Polyane_Wercelens@gmail.com
 2057331457,M. E. Walter,Stanford University,M._E._Walter@gmail.com
@@ -509,7 +509,7 @@ authorId,name,affiliations,email
 81753199,Gaurav Deshmukh,University of Michigan,Gaurav_Deshmukh@gmail.com
 46250152,M. Nerkar,University of Chicago,M._Nerkar@gmail.com
 145654328,P. Watson,University of Chicago,P._Watson@gmail.com
-144153718,H. T. Kung,['Harvard University'],H._T._Kung@gmail.com
+144153718,H. T. Kung,'Harvard University',H._T._Kung@gmail.com
 2947656,P. L. Lehman,University of Chicago,P._L._Lehman@gmail.com
 1767172,A. Ilic,California Institute of Technology,A._Ilic@gmail.com
 1803904,Frederico Pratas,"University of California, Berkeley",Frederico_Pratas@gmail.com

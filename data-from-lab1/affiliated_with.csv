@@ -89,7 +89,7 @@ authorId,affiliation
 1390043728,"University of California, Berkeley"
 2185666,Massachusetts Institute of Technology
 2440316,University of Pennsylvania
-145748799,['Google']
+145748799,'Google'
 144879753,Yale University
 1388404060,University of Pennsylvania
 38548340,California Institute of Technology
@@ -100,7 +100,7 @@ authorId,affiliation
 22708544,"University of California, Berkeley"
 22708729,Yale University
 22574075,Columbia University
-1868196,['DeepMind']
+1868196,'DeepMind'
 144154444,University of Pennsylvania
 103296599,"University of California, Los Angeles"
 70359360,"University of California, Berkeley"
@@ -137,13 +137,13 @@ authorId,affiliation
 1730590,University of Washington
 1715407,University of Michigan
 144625576,University of Chicago
-3192444,['INRIA']
+3192444,'INRIA'
 2488892,University of Pennsylvania
 2112625845,University of Oxford
 116150522,Princeton University
 118461124,California Institute of Technology
 1694028,University of Pennsylvania
-9392149,['Sydney University']
+9392149,'Sydney University'
 1705486,University of Washington
 1398510220,University of Pennsylvania
 6630757,University of Oxford
@@ -185,24 +185,24 @@ authorId,affiliation
 1931503,University of Michigan
 2023945041,Stanford University
 3305291,Columbia University
-1718824,['Singapore Management University']
+1718824,'Singapore Management University'
 143736701,"University of California, San Diego"
 2426181,University of Oxford
 2116388691,Harvard University
 143882917,University of Oxford
 123064042,Princeton University
 34820048,"University of California, Berkeley"
-1752475,['AFRL']
+1752475,'AFRL'
 143628853,University of Oxford
 145364912,"University of California, Berkeley"
 32041960,University of Chicago
 1396307944,University of Chicago
 2708759,"University of California, Los Angeles"
-16777650,['St. Petersburg Federal Research Center of the Russian Academy of Sciences']
+16777650,'St. Petersburg Federal Research Center of the Russian Academy of Sciences'
 2262881,Stanford University
 144638626,Massachusetts Institute of Technology
 2701127,"University of California, Los Angeles"
-1761581,['University of Geneva']
+1761581,'University of Geneva'
 145141931,Columbia University
 39452145,Stanford University
 1716323,Harvard University
@@ -289,11 +289,11 @@ authorId,affiliation
 3122645,University of Oxford
 1773778,Massachusetts Institute of Technology
 2871176,University of Chicago
-27011207,"['ANU, Murdoch University, UNSW, Brunel University, Flinders University, UWA, Curtin University']"
+27011207,"'ANU, Murdoch University, UNSW, Brunel University, Flinders University, UWA, Curtin University'"
 2607684,California Institute of Technology
 145215033,Yale University
 1686360,University of Chicago
-1692152,['Hong Kong University of Science and Technology']
+1692152,'Hong Kong University of Science and Technology'
 1741196,University of Pennsylvania
 35327641,Yale University
 35510243,Harvard University
@@ -303,7 +303,7 @@ authorId,affiliation
 145635430,University of Cambridge
 1400943991,"University of California, Los Angeles"
 33199546,Princeton University
-1703204,['data.world']
+1703204,'data.world'
 2787942,University of Cambridge
 1398348791,"University of California, Los Angeles"
 1683556,California Institute of Technology
@@ -312,7 +312,7 @@ authorId,affiliation
 1978719,University of Michigan
 48691553,Stanford University
 1932524,University of Pennsylvania
-1736546,['Kansas State University']
+1736546,'Kansas State University'
 1832291,Harvard University
 144971290,Princeton University
 2173160556,University of Pennsylvania
@@ -383,7 +383,7 @@ authorId,affiliation
 1873312,"University of California, Berkeley"
 2283085,"University of California, San Diego"
 31938009,Yale University
-144823759,['University of Washington']
+144823759,'University of Washington'
 2304487,"University of California, Los Angeles"
 47531065,Yale University
 144989167,University of Michigan
@@ -416,7 +416,7 @@ authorId,affiliation
 21790176,"University of California, Berkeley"
 1679752,University of Chicago
 1751233,Stanford University
-143966331,['University of Düsseldorf']
+143966331,'University of Düsseldorf'
 2865522,Massachusetts Institute of Technology
 2040141,"University of California, San Diego"
 40116646,University of Cambridge
@@ -491,7 +491,7 @@ authorId,affiliation
 40466466,Massachusetts Institute of Technology
 143842962,Massachusetts Institute of Technology
 3193518,University of Washington
-7337091,['Technische Universität Dresden']
+7337091,'Technische Universität Dresden'
 39592606,University of Washington
 31472189,"University of California, San Diego"
 2057331457,Stanford University
@@ -509,7 +509,7 @@ authorId,affiliation
 81753199,University of Michigan
 46250152,University of Chicago
 145654328,University of Chicago
-144153718,['Harvard University']
+144153718,'Harvard University'
 2947656,University of Chicago
 1767172,California Institute of Technology
 1803904,"University of California, Berkeley"
