@@ -4,7 +4,7 @@ import pandas as pd
 import random
 
 # Load the TBox definition
-tbox_path = 'SDM-Lab2-TBOX.ttl'
+tbox_path = 'BDMA11-E-B1-CoessensIslek-TBOX.ttl'
 g = Graph()
 g.parse(tbox_path, format='ttl')
 
@@ -44,7 +44,6 @@ g.bind('ex', EX)
 # Function to add affiliation data to the graph
 def add_affiliation_to_graph(graph, affiliation_name, affiliation_type, affiliation_address, affiliation_email, affiliation_phone_number, affiliation_website):
     affiliation_uri = EX[f'Affiliation/{affiliation_name.replace(" ", "_").lower()}']
-    #print(affiliation_name)
     graph.add((affiliation_uri, RDF.type, EX.Affiliation))
     graph.add((affiliation_uri, EX.affiliation_name, Literal(affiliation_name)))
     graph.add((affiliation_uri, EX.affiliation_type, Literal(affiliation_type)))
@@ -60,7 +59,7 @@ def is_reviewer(author_id):
     return author_id in reviewed_by_df['author_id'].values
 
 # Function to add individual data to the graph, with distinct URIs for authors and reviewers
-def add_author_to_graph(graph, individual_id, name, email):
+def add_author_to_graph(graph, individual_id, author_name, author_email):
     # Determine if the individual is a reviewer
     if is_reviewer(individual_id):
         individual_uri = EX[f'Reviewer/{individual_id}']
@@ -70,8 +69,8 @@ def add_author_to_graph(graph, individual_id, name, email):
         graph.add((individual_uri, RDF.type, EX.Author))
 
     graph.add((individual_uri, EX.individualId, Literal(individual_id)))
-    graph.add((individual_uri, EX.name, Literal(name)))
-    graph.add((individual_uri, EX.email, Literal(email)))
+    graph.add((individual_uri, EX.author_name, Literal(author_name)))
+    graph.add((individual_uri, EX.author_email, Literal(author_email)))
 
     return individual_uri
 
@@ -220,7 +219,6 @@ def link_paper_to_venue(graph, paper_id, venue_id, conferences_df, journals_df):
         random_venue_id = random.choice(conferences_df['ss_venue_id'].values)
         venue_uri = EX[f'Edition/{random_venue_id}']
         relationship = EX.published_in_edition
-        print(f"Assigned to random conference with ID {random_venue_id}")
 
     # Add the triple to the graph
     graph.add((paper_uri, relationship, venue_uri))
@@ -345,7 +343,10 @@ for _, row in review_on_df.iterrows():
     )
 
 # Export the graph to Turtle format
-output_ttl_path = 'SDM-Lab2-ABOX.ttl'
+output_ttl_path = 'BDMA11-E-B2-CoessensIslek-ABOX.ttl'
 g.serialize(destination=output_ttl_path, format='turtle')
 
 print(f'Graph exported to Turtle format at: {output_ttl_path}')
+
+# Simon Coessens
+# Rana Islek
