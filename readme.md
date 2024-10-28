@@ -5,13 +5,20 @@ knowledge graphs using GraphDB and the RDFS language. We’ll outline the
 steps involved in setting up and querying these graphs, and discuss the
 results achieved.
 
+<br>
+This project was built as part of a course at UPC.
+
+<div align="center">
+    <img src="https://d3m.upc.edu/en/logosfooter-en/upc/@@images/image" alt="UPC Logo" width="200"/>
+</div>
+
 # Ontology Creation
 
 ## TBOX definition
 
 Firstly, we used the knowledge graph visualization tool Gra.fo to create
 the TBOX which is represented in Figure
-<a href="#fig:tbox_img" data-reference-type="ref"
+<a href="SDM-Lab2-TBOX_png.png" data-reference-type="ref"
 data-reference="fig:tbox_img">1</a>. You can find and look further in
 our graph through this
 [link](https://app.gra.fo/editor/9772ce47-e4d5-4ea2-b924-851ec84f56e7/public?token=ecbd6716995e59bbd23d37c6dcc6045f382199fc2a5533eff7ce62cc345eea84).
